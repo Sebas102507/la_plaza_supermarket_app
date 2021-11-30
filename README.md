@@ -1,8 +1,20 @@
 # La Plaza (Supermarket app)!
 
+```sh
+flutter --version
+Flutter 2.2.1
+```
+**You can Dowland the app in the following path**
+```sh
+apkFile/laPlaza.apk
+```
+
 This is a project I have made using Flutter framework (Which allows me to have either an Android or IOS app), Firebase with its cloud firestore database (To store users email and userId), in this case  I used a small JSON provided by a REST service to show the products details.
 
-![enter image description here](https://i.ibb.co/hFHS5cC/1.png)
+
+![enter image description here](https://static.wixstatic.com/media/07fea2_4cf62f78ca9a475ebf4da8c33961ba38~mv2.png)
+
+
 ## 1) Login and SignIn
 
 In this case, I show two options to the users, first one is Login, which requests the user an email and password, then the app will authenticate the data provided and next, It will check if the user exists in the users collection as a Document and finally it will allow or deny the access to the home page.
@@ -30,4 +42,6 @@ Here the search is being diplayed, if there's any search, the app will display a
 
 ### Navigation Bar
 With it, user can change between 4 pages (Inicio, Notificaciones, Mis pedidos, Configuración).
+
+
 
