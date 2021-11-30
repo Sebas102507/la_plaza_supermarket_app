@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "58086413150",
+    "project_id": "laplaza-a4b23",
+    "storage_bucket": "laplaza-a4b23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58086413150:android:a1531f99dd6c013cbe75cf",
+        "android_client_info": {
+          "package_name": "com.example.la_plaza_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58086413150-1s20ne0h77asi2av17hdv6hld1h13e36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.la_plaza_app",
+            "certificate_hash": "5317c3a17be488767abe3655b98c2972d56751b1"
+          }
+        },
+        {
+          "client_id": "58086413150-qjefnevb870udt4cpsihn5s5k585dlp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5il4C5W--La7vG4EXBgRxOu1rjFJiTZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58086413150-qjefnevb870udt4cpsihn5s5k585dlp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
