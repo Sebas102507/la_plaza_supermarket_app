@@ -23,18 +23,22 @@ For the SignIn process, the data requested to the user is the same as in the Log
 
 
 
-
+![enter image description here](https://static.wixstatic.com/media/07fea2_1e43eb89c5bf494e916a2718541356f6~mv2.png)
 
 
 
 ## 2) Home
 
-In the home page, the user will see the Companies name, a searchBar, an the products available.
+In the home page, the user will see the Companies name, a searchBar  and the products available.
+
+![enter image description here](https://static.wixstatic.com/media/07fea2_1a05541d8d4443c2b18c7468aa6b0d65~mv2.png)
+
+
+
+
 
 ### Search Bar
 The searchBar is a TextField Widget which allows to enter text from the keyboard, also it has tree Functions associated, the first one is about OnChanged, this track the current text in the searchBar, the second one is about onSummited, this will respond when the user taps on the enter or confirm button on the keyboard, this will update the current search and will show it below, and the last one is onTap, this will respond when the user taps on the searchBar. Besides, in this project is being saved the history of the past searches of the user and will allow the user to tap on one of it in order to make a new search.
-
-
 
 ### Display Search
 Here the search is being diplayed, if there's any search, the app will display all of the products.
@@ -43,5 +47,5 @@ Here the search is being diplayed, if there's any search, the app will display a
 ### Navigation Bar
 With it, user can change between 4 pages (Inicio, Notificaciones, Mis pedidos, Configuración).
 
-
-
+#### Made by: Juan Sebastián Vargas Torres
+##### END :)
